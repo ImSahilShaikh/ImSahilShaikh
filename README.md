@@ -9,7 +9,7 @@
 <a href="https://github.com/ImSahilShaikh">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/sahilashaikh21/">
+<a href="https://www.instagram.com/im.sahil_shaikh/">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/sahilashaikh21/">
