@@ -34,6 +34,16 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 - 💻 I have worked on C++, Java, Python, HTML/CSS, MySQL, MongoDB, Data Science, Computer Vision, Machine Learning etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+
+
+
+
 ### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
