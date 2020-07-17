@@ -21,7 +21,7 @@
 
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=ImSahilShaikh.ImSahilShaikh)
+### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=ImSahilShaikh.ImSahilShaikh)
 
 I'm a final year student pursuing Bachelors's in Information Technology 🎓 from PICT, Pune. 🏛. I want to pursue a challenging career and be part of a progressive organization that gives scope to enhance my knowledge, skills and to reach the pinnacle in the computing and research field with determination, dedication, and hardwork.
 
