@@ -21,9 +21,9 @@
 
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=ImSahilShaikh.ImSahilShaikh)
 
-I'm a final year student pursuing Bachelors's in Information Technology 🎓 from PICT, Pune. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+I'm a final year student pursuing Bachelors's in Information Technology 🎓 from PICT, Pune. 🏛. I want to pursue a challenging career and be part of a progressive organization that gives scope to enhance my knowledge, skills and to reach the pinnacle in the computing and research field with determination, dedication, and hardwork.
 
 ### More about me...
 
