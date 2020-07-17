@@ -28,12 +28,11 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 ### More about me...
 
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
+- 🌱 I’m currently learning Deep Learning 🚀.
+- 👯 I’m looking to collaborate on any Open Source Project involving Data Science / Machine Learning/ Computer Vision.
+- 📫 How to reach me: sahilashaikh21@gmail.com | [LinkedIn](https://www.linkedin.com/in/sahilshaikh21/) | [Twitter](https://twitter.com/imsahilshaikh98) 
+- 💻 I have worked on C++, Java, Python, HTML/CSS, MySQL, MongoDB, Data Science, Computer Vision, Machine Learning etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
 
 ### Show some ❤️ by starring some of the repositories!
 
