@@ -55,8 +55,9 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
+
 <p align ="center">
 ⭐️ From [ImSahilShaikh](https://github.com/ImSahilShaikh)
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsahilshaikh" alt="imsahilshaikh" /> </p>
