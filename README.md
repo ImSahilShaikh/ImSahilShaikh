@@ -59,4 +59,4 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 ⭐️ From [ImSahilShaikh](https://github.com/ImSahilShaikh)
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsahilshaikh" alt="imsahilshaikh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imsahilshaikh" alt="imsahilshaikh" /> </p>
