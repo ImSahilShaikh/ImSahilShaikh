@@ -42,13 +42,15 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="30"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="30"/></p>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="30"/>
 
+
+</p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
