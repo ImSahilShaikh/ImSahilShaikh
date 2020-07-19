@@ -26,12 +26,11 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
 - 🌱 I’m currently learning Deep Learning 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Data Science / Machine Learning/ Computer Vision.
 - 📫 How to reach me: sahilashaikh21@gmail.com | [LinkedIn](https://www.linkedin.com/in/sahilshaikh21/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, MySQL, MongoDB, Data Science, Computer Vision, Machine Learning etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
+- 💬 Ask me about anything! I am happy to help and guide you to the extent I can.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
