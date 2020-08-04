@@ -32,8 +32,10 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 - 💻 I have worked on C++, Java, Python, HTML/CSS, MySQL, MongoDB, Data Science, Computer Vision, Machine Learning etc.
 - 💬 Ask me about anything! I am happy to help and guide you to the extent I can.
 
+</p>
+
 ### My Tech Stack
-<p>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -45,9 +47,9 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-</p>
 
-</p>
+
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
 
