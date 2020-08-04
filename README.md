@@ -51,7 +51,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 </p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSahilShaikh&hide=TeX&layout=compact)
 <p align ="center">
 ⭐️ From [ImSahilShaikh](https://github.com/ImSahilShaikh)
 </p>
