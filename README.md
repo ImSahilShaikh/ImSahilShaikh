@@ -46,11 +46,11 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-
+<center>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSahilShaikh&hide=TeX&layout=compact)
-
+</center>
 
 <p align ="center">
 ⭐️ From [ImSahilShaikh](https://github.com/ImSahilShaikh)
