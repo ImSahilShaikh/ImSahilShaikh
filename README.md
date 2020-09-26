@@ -34,6 +34,8 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 </p>
 
+## Take a look at my [Portfolio](http://sahilshaikh.me/)
+
 ### My Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -46,7 +48,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## [Portfolio](http://sahilshaikh.me/)
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ImSahilShaikh&show_icons=true&hide_border=true)
