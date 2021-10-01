@@ -34,7 +34,6 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 </p>
 
-## Take a look at my [Portfolio](http://sahilshaikh.me/)
 
 ### My Tech Stack
 
